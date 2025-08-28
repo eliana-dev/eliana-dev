@@ -1,6 +1,14 @@
 <p align="center">
   <img src="assets/e-logo.png" alt="Eliana Dev Logo" height="300" width="700">
 </p>
+<center>
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdezeliana38@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__whoisellie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdezeliana)
+
+</center>
 
 ```bash
 
@@ -27,6 +35,15 @@
 
 ```
 
+## 📫 About me
+
+✨ Hi! I'm Eliana Valdez, 21 years old.
+
+💡 I'm currently an advanced student in Application Analysis, Development, and Programming.
+
+🚀 Throughout my studies, I've had the chance to work on several projects with real clients.  
+Lately, I've been focusing my knowledge and skills on backend development.
+
 ## ⚡ Technologies
 
 ### 🖥️ Frontend
@@ -50,8 +67,3 @@
 
 ![GitLab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=orange&labelColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white)
-
-## 📫 Contact me 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdezeliana38@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__whoisellie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdezeliana)
