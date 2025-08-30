@@ -35,7 +35,7 @@
 
 ```
 
-## 📫 About me
+## 🐈 About me
 
 ✨ Hi! I'm Eliana Valdez, 21 years old.
 
