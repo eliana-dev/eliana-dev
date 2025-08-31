@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/e-logo.png" alt="Eliana Dev Logo" height="300" width="700">
+  <img src="assets/e-logo.png" alt="Eliana Dev Logo" height="300" width="550">
 </p>
 
 <div align="center">
