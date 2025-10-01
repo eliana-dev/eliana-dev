@@ -54,8 +54,9 @@ Lately, I've been focusing my knowledge and skills on backend development.
 
 ### ⚙️ Backend
 
-![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=sharp&logoColor=purple&labelColor=white)
 ![Python](https://img.shields.io/badge/python-336fa0?style=for-the-badge&logo=python&logoColor=336fa0&labelColor=white)
+![Flask](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=blue&labelColor=white)
+![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=sharp&logoColor=purple&labelColor=white)
 ![.NET Windows Forms](https://img.shields.io/badge/.net%20Windows%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=white)
 
 ### 🗄️ Databases
