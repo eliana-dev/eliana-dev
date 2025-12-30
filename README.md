@@ -48,24 +48,20 @@ Lately, I've been focusing my knowledge and skills on backend development.
 ## ⚡ Technologies
 
 ### 🖥️ Frontend
-
-![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)
-![CSS](https://img.shields.io/badge/css-673499?style=for-the-badge&logo=css&logoColor=673499&labelColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=white)
+![HTML](https://img.shields.io/badge/html-FFD1A9?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFF5EB)
+![CSS](https://img.shields.io/badge/css-D4BEE4?style=for-the-badge&logo=css3&logoColor=673499&labelColor=F8F4FF)
+![JavaScript](https://img.shields.io/badge/javascript-FFF4A3?style=for-the-badge&logo=javascript&logoColor=D4A017&labelColor=FFFFF0)
 
 ### ⚙️ Backend
-
-![Python](https://img.shields.io/badge/python-336fa0?style=for-the-badge&logo=python&logoColor=336fa0&labelColor=white)
-![Flask](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=blue&labelColor=white)
-![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=sharp&logoColor=purple&labelColor=white)
-![.NET Windows Forms](https://img.shields.io/badge/.net%20Windows%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=white)
+![Python](https://img.shields.io/badge/python-A2CFFE?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=F0F8FF)
+![Flask](https://img.shields.io/badge/flask-B2F2BB?style=for-the-badge&logo=flask&logoColor=40C057&labelColor=F4FFF4)
+![C#](https://img.shields.io/badge/csharp-E5BBFF?style=for-the-badge&logo=csharp&logoColor=5C2D91&labelColor=FAF5FF)
+![.NET](https://img.shields.io/badge/.net-D6BCFA?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=F9F5FF)
 
 ### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=darkgreen&labelColor=white)
-![SQLite](https://img.shields.io/badge/sql:%20mssql-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-C1E1C1?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=F0FFF0)
+![SQLite](https://img.shields.io/badge/sqlite-B9E2FE?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=F0F9FF)
 
 ### 🔧 Tools
-
-![GitLab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=orange&labelColor=white)
-![GitHub Actions](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FFB7B2?style=for-the-badge&logo=gitlab&logoColor=E24329&labelColor=FFF5F5)
+![GitHub](https://img.shields.io/badge/github-D1D1D1?style=for-the-badge&logo=github&logoColor=333&labelColor=F5F5F5)
