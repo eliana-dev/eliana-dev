@@ -49,13 +49,13 @@ Lately, I've been focusing my knowledge and skills on backend development.
 
 ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/html-FFD1A9?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFF5EB)
-![CSS](https://img.shields.io/badge/css-D4BEE4?style=for-the-badge&logo=css3&logoColor=673499&labelColor=F8F4FF)
+![CSS](https://img.shields.io/badge/css-D4BEE4?style=for-the-badge&logo=css&logoColor=673499&labelColor=F8F4FF)
 ![JavaScript](https://img.shields.io/badge/javascript-FFF4A3?style=for-the-badge&logo=javascript&logoColor=D4A017&labelColor=FFFFF0)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/python-A2CFFE?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=F0F8FF)
 ![Flask](https://img.shields.io/badge/flask-B2F2BB?style=for-the-badge&logo=flask&logoColor=40C057&labelColor=F4FFF4)
-![C#](https://img.shields.io/badge/csharp-E5BBFF?style=for-the-badge&logo=csharp&logoColor=5C2D91&labelColor=FAF5FF)
+![C#](https://img.shields.io/badge/csharp-E5BBFF?style=for-the-badge&logo=sharp&logoColor=5C2D91&labelColor=FAF5FF)
 ![.NET](https://img.shields.io/badge/.net-D6BCFA?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=F9F5FF)
 
 ### 🗄️ Databases
