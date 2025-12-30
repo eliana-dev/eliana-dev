@@ -3,10 +3,11 @@
 </p>
 
 <div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdezeliana38@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E6E6FA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__whoisellie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/valdezeliana)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdezeliana38@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__whoisellie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdezeliana)
 
 </div>
 
