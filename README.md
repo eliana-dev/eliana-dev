@@ -36,14 +36,14 @@
 
 ```
 
-## 🐈 About me
+## about me!! 𐀔
 
-✨ Hi! I'm Eliana Valdez, 21 years old.
+ ⭑ My name is Eliana and I'm 21 y/o 𔘓
+ 
+ ⭑ I am a Senior Software Development Student  𓇬
+ 
+ ⭑ I am specializing in backend development!! 𔓕
 
-💡 I'm currently an advanced student in Application Analysis, Development, and Programming.
-
-🚀 Throughout my studies, I've had the chance to work on several projects with real clients.  
-Lately, I've been focusing my knowledge and skills on backend development.
 
 ## ⚡ Technologies
 
