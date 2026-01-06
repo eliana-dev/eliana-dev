@@ -53,6 +53,7 @@
 ###  ⤷ databases
 ![MongoDB](https://img.shields.io/badge/mongodb-C1E1C1?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=F0FFF0)
 ![SQLite](https://img.shields.io/badge/sqlite-B9E2FE?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=F0F9FF)
+![Redis](https://img.shields.io/badge/redis-FFBABA?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=FFF5F5)
 
 ###  ⤷ tools
 ![GitLab](https://img.shields.io/badge/gitlab-FFB7B2?style=for-the-badge&logo=gitlab&logoColor=E24329&labelColor=FFF5F5)
